@@ -2,7 +2,7 @@
 
 A Python command-line tool for measuring internet connection performance metrics.
 
-## :dart Features
+## :dart: Features
 
 - **Ping Test**: Measures network latency
 - **Jitter Test**: Measures stability of network latency
